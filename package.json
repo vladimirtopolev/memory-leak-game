@@ -1,0 +1,14 @@
+{
+  "name": "memory-leak-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bootstrap.js",
+  "scripts": {
+    "install&start": "npm install -g serve && serve ./",
+    "start": "serve ./"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
